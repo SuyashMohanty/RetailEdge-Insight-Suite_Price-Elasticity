@@ -20,10 +20,4 @@ The dashboard provides a comprehensive view of pricing elasticity across differe
 - **Cross-Price Elasticity**: Measure the impact of competitor price changes on demand for your products.
 - **Insights**: Understanding how competitor pricing affects your sales can help you adjust your own pricing strategy to maintain market share.
 
-## Additional Considerations:
-
-- **SKU-Level Analysis**: The dashboard could be enhanced to provide more granular insights at the SKU level, allowing for targeted pricing strategies.
-- **Time Series Analysis**: Incorporating time series data could help identify trends in pricing elasticity over time.
-- **Advanced Analytics**: Techniques like regression analysis or machine learning could be used to build predictive models for pricing elasticity.
-
 Overall, this dashboard provides a valuable tool for pricing decision-making by offering insights into consumer behavior, competitive dynamics, and the effectiveness of promotional activities.
